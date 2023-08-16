@@ -1,16 +1,18 @@
-### Hi there 👋
+# Hej, I'm Alexey Ses
 
-<!--
-**GanjaGanja/GanjaGanja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
 
-Here are some ideas to get you started:
+Hi there! I'm a front-end developer based in the Netherlands. (add more here)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My main skills
+
+- Solid knowledge of JavaScript and TypeScript
+- 6 years of practical experience with AngularJS, Angular
+- Experienced in the development for banks, e-commerce, insurance companies, horticulture
+- In-depth understanding of the Software Development Life Cycle
+- Team player
+- Passionate mentor for junior developers
+
+## Link to LinkedIn profile
+
+[Alexey Ses](https://www.linkedin.com/in/alexey-ses/)
