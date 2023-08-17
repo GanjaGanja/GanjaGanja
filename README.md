@@ -16,6 +16,7 @@ My hobbies are reading everything UI-related, traveling to distant countries, ru
 - In-depth understanding of the Software Development Life Cycle
 - Team player
 - Passionate mentor for junior developers
+- I learn Java and Spring Boot in order to be full-stack developer
 
 ## Link to LinkedIn profile
 
